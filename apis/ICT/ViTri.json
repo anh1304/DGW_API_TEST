@@ -1,0 +1,36 @@
+{
+    "TR": "1",
+    "TM": "Lấy thông tin thành công",
+    "DATA": [
+        {
+            "TC": "1011",
+            "SERIAL": [
+                {
+                    "Z": "MHDJ3VN/A_01",
+                    "T2": "MHDJ3VN/A",
+                    "T3": " IPHONE 11 WHITE 128GB A2221-VIE"
+                },
+                {
+                    "Z": "MHDJ3VN/A_02",
+                    "T2": "MHDJ3VN/A",
+                    "T3": " IPHONE 11 WHITE 128GB A2221-VIE"
+                },
+                {
+                    "Z": "BHR4550GL_01",
+                    "T2": "BHR4550GL",
+                    "T3": "(WATCH) MI WATCH ĐEN (BLACK"
+                },
+                {
+                    "Z": "BHR4550GL_02",
+                    "T2": "BHR4550GL",
+                    "T3": "(WATCH) MI WATCH ĐEN (BLACK"
+                },
+                {
+                    "Z": "BHR4550GL_03",
+                    "T2": "BHR4550GL",
+                    "T3": "(WATCH) MI WATCH ĐEN (BLACK"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "TR": "1",
+    "TM": "Lấy thông tin thành công",
+    "DATA": [
+        {
+            "TC": "1011",
+            "MATNR": [
+                {
+                    "T2": "8850002850323",
+                    "T3": "Tẩy cổ áo ESSENCE 220ml 1x24 bottle",
+                    "T4": "20241023"
+                },
+                {
+                    "T2": "LN.AC.SU01",
+                    "T3": "LN.AC.SU01 Backpack SUV 01",
+                    "T4": "20241205"
+                },
+                {
+                    "T2": "8850002850064",
+                    "T3": "NG ESSENCE 1900ml Hồng 1x6 bottle",
+                    "T4": "20241205"
+                },
+                {
+                    "T2": "NESTLE",
+                    "T3": "Sữa Chua Uống Dinh Dưỡng Nestlé Yogu",
+                    "T4": "20241205"
+                },
+                {
+                    "T2": "809939073549",
+                    "T3": "MILKIS Truyền Thống 250ml 1x5x6 can",
+                    "T4": "20241016"
+                },
+                {
+                    "T2": "LN.AC.SU01",
+                    "T3": "LN.AC.SU01 Backpack SUV 01",
+                    "T4": "20241016"
+                },
+                {
+                    "T2": "8850002850064",
+                    "T3": "NG ESSENCE 1900ml Hồng 1x6 bottle",
+                    "T4": "20241016"
+                },
+                {
+                    "T2": "12391507",
+                    "T3": "BOOST GLUCOSE CONTROL 400g",
+                    "T4": "20241016"
+                },
+                {
+                    "T2": "8850002807625",
+                    "T3": "Sữa Chua Uống Dinh Dưỡng Nestlé",
+                    "T4": "20241016"
+                },
+                {
+                    "T2": "8850002807626",
+                    "T3": "Sữa Chua Uống Dinh Dưỡng Nestlé",
+                    "T4": "20241016"
+                },
+                {
+                    "T2": "8809304758585",
+                    "T3": "CURAVAC CURA PULFK2",
+                    "T4": "20241016"
+                },
+                {
+                    "T2": "12391507",
+                    "T3": "BOOST GLUCOSE CONTROL 400g",
+                    "T4": "20231205"
+                },
+                {
+                    "T2": "8850002807625",
+                    "T3": "Sữa Chua Uống Dinh Dưỡng Nestlé",
+                    "T4": "20231205"
+                },
+                {
+                    "T2": "8850002807626",
+                    "T3": "Sữa Chua Uống Dinh Dưỡng Nestlé",
+                    "T4": "20231205"
+                },
+                {
+                    "T2": "8809304758585",
+                    "T3": "CURAVAC CURA PULFK2",
+                    "T4": "20231205"
+                }
+            ]
+        }
+    ]
+}

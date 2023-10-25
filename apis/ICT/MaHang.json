@@ -1,0 +1,19 @@
+{
+    "TR": "1",
+    "TM": "Lấy thông tin thành công",
+    "DATA": [
+        {
+            "T3": "MGLN SANICARE 9KG/ XÁM",
+            "LGORT": [
+                {
+                    "TC": "1011",
+                    "U1": "SGH001-A-C01-T1"
+                },
+                {
+                    "TC": "1012",
+                    "U1": ""
+                }
+            ]
+        }
+    ]
+}
